@@ -1,0 +1,24 @@
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.exe
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.deps.json
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.runtimeconfig.json
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.runtimeconfig.dev.json
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.dll
+C:\Users\de_Riter\source\repos\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.pdb
+C:\Users\de_Riter\source\repos\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.csprojAssemblyReference.cache
+C:\Users\de_Riter\source\repos\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.AssemblyInfoInputs.cache
+C:\Users\de_Riter\source\repos\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.AssemblyInfo.cs
+C:\Users\de_Riter\source\repos\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.dll
+C:\Users\de_Riter\source\repos\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.pdb
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.exe
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.deps.json
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.runtimeconfig.json
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.runtimeconfig.dev.json
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.dll
+D:\Новая папка (6)\Команда (1)\Команда\Команда\bin\Debug\netcoreapp3.1\Команда.pdb
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.csprojAssemblyReference.cache
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.AssemblyInfoInputs.cache
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.AssemblyInfo.cs
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.csproj.CoreCompileInputs.cache
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.dll
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.pdb
+D:\Новая папка (6)\Команда (1)\Команда\Команда\obj\Debug\netcoreapp3.1\Команда.genruntimeconfig.cache
